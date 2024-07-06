@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "todo",
     # installed modules
     "rest_framework",
+    # module to add docs
     "coreapi",
 ]
 
